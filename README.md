@@ -6,7 +6,7 @@ En el paso 8 de nuestro Manual, usted tiene que instalar 2 dependencias. En esta
 añadi la opcion para leer la metadata de las imagenes pero no inclui la dependencia en el manual entonces al correr
 el programa fallara por tanto, haga lo siguiente:
 
-En el paso 8 despues puede que las dos dependencias se instalen, instale una ultima dependencia con el siguiente comando:
+En el paso 8 despues que las dos dependencias se instalen, instale una ultima dependencia con el siguiente comando:
 
 pip install SimpleITK
 
